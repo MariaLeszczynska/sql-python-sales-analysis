@@ -1,1 +1,0 @@
-# sql-python-sales-analysis
