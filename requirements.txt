@@ -1,0 +1,6 @@
+pandas
+pyodbc
+matplotlib
+squarify
+networkx
+adjustText

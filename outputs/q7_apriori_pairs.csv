@@ -1,0 +1,11 @@
+ProductA,ProductB,PairCount,Support,ConfidenceAtoB,ConfidenceBtoA,Lift
+Sir Rodney's Scones,Sirop d'érable,8,0.01,0.205,0.333,7.094
+Pavlova,Gorgonzola Telino,7,0.008,0.163,0.137,2.649
+Nord-Ost Matjeshering,Tourtière,6,0.007,0.188,0.167,4.323
+Gorgonzola Telino,Mozzarella di Giovanni,6,0.007,0.118,0.158,2.57
+Pavlova,Tarte au sucre,6,0.007,0.14,0.125,2.413
+Camembert Pierrot,Flotemysost,6,0.007,0.118,0.143,2.325
+Pavlova,Camembert Pierrot,6,0.007,0.14,0.118,2.271
+Alice Mutton,Geitost,5,0.006,0.135,0.156,3.505
+Ikura,Original Frankfurter grüne Soße,5,0.006,0.152,0.132,3.309
+Chang,Scottish Longbreads,5,0.006,0.114,0.147,2.774
